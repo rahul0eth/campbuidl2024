@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+// used to mint an NFT for buidl-portfolio-main (day 4) testing
+
 contract MyFirstNFT{
     //owner mapping
     mapping(uint => address) owners;
